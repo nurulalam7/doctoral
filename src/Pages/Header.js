@@ -18,7 +18,7 @@ const Header = () => {
             <div className="grid grid-cols-3 my-20">
               <div className='col-span-2'>
                 <div>
-                  <h2 className='text-4xl '>FAST ACCESS TO NEARBY DOCTORS</h2>
+                  <h2 className='text-3xl '>FAST ACCESS TO NEARBY DOCTORS</h2>
                 </div>
                 <div className=''>
                   <h5 className=''>Find your own desire nearby doctor which you need for the first aid and any serious desiase and you can find your best doctors </h5>
